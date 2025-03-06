@@ -11,7 +11,7 @@ def p(num):
             return False
     return True
 
-# 소수 개수 세기
+# 소수 개수 세기기
 prime_count = sum(1 for num in numbers if p(num))
 
 # 결과 출력
