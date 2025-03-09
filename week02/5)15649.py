@@ -21,4 +21,6 @@ def backtrack():
             result.pop()  # 백트래킹 (되돌리기)
             visited[i] = False  # 방문 해제
 
+            
+
 backtrack()
