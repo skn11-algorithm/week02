@@ -19,4 +19,3 @@ def iter():
             iter()
             s.pop()
  
-iter()
